@@ -1,0 +1,6 @@
+C:\Users\Aleks\OneDrive\Documents\Study\CS\HW\work in the console\CS_exam_2\Task_01\bin\Debug\Task_01.exe.config
+C:\Users\Aleks\OneDrive\Documents\Study\CS\HW\work in the console\CS_exam_2\Task_01\bin\Debug\Task_01.exe
+C:\Users\Aleks\OneDrive\Documents\Study\CS\HW\work in the console\CS_exam_2\Task_01\bin\Debug\Task_01.pdb
+C:\Users\Aleks\OneDrive\Documents\Study\CS\HW\work in the console\CS_exam_2\Task_01\obj\Debug\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\OneDrive\Documents\Study\CS\HW\work in the console\CS_exam_2\Task_01\obj\Debug\Task_01.exe
+C:\Users\Aleks\OneDrive\Documents\Study\CS\HW\work in the console\CS_exam_2\Task_01\obj\Debug\Task_01.pdb
