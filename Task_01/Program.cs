@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 
 /*Develop a program that takes a path to a folder and creates a frequency dictionary of words found in all
 text files of the specified folder. The result of the program is a text file containing
